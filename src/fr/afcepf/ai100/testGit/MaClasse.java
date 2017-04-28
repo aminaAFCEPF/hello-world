@@ -7,7 +7,7 @@ public class MaClasse {
 	private int age;
 	
 	// changement
-	private String autre;
+	private String blabla;
 	public MaClasse() {
 		super();
 	}
