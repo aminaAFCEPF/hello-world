@@ -8,6 +8,8 @@ public class MaClasse {
 	
 	// changement
 	private String blabla;
+	private String olivier;
+	
 	public MaClasse() {
 		super();
 	}
